@@ -1,4 +1,4 @@
-# axialcompression_ht
+# Data Processing for Elevated Temperature Axial Compression Tests
 The repository contains codes to process data from Elevated (110C) Temperature Axial Compression Tests. The code was generated for 6in TCP Qualification.
 
 The Data for HT Axial Compression Tests are stored in DMS 61350.
